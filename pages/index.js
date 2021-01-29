@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        
         <Link
           id="logo"
           href="https://cocky-curie-f05e0f.netlify.app/">
